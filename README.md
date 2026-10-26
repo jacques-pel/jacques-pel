@@ -5,7 +5,7 @@ Senior Consultant in Strategy & Transactions at Deloitte, building toward predic
 - Five years building decision models for clients, including workforce, pricing, and profitability models for a multilateral development bank and a higher education system
 - Le Wagon Data Science & AI Bootcamp (Tokyo, 2026); math coursework at UC San Diego Extension
 - BBA Finance and BA Economics (Honors), The University of Texas at Austin
-- Economics Honors thesis: *NAFTA's Impact in Mexico: Changes in Unskilled Wages and the Skill Premium*, an econometric study of 15+ years of data in Stata
+- Economics Honors thesis on trade and economic development in Mexico: *NAFTA's Impact in Mexico: Changes in Unskilled Wages and the Skill Premium*, an econometric study of 15+ years of data in Stata
 
 ## Projects
 
