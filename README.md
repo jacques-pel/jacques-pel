@@ -1,16 +1,18 @@
-## Hi there 👋
+# Jacques Pelletier
 
-<!--
-**jacques-pel/jacques-pel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Consultant in Strategy & Transactions at Deloitte, building toward predictive modeling for real estate in data-scarce markets, starting with Latin America.
 
-Here are some ideas to get you started:
+- Five years building decision models for clients, including workforce, pricing, and profitability models for a multilateral development bank and a higher education system
+- Le Wagon Data Science & AI Bootcamp (Tokyo, 2026); math coursework at UC San Diego Extension
+- BBA Finance and BA Economics (Honors), The University of Texas at Austin
+- Economics Honors thesis: *NAFTA's Impact in Mexico: Changes in Unskilled Wages and the Skill Premium*, an econometric study of 15+ years of data in Stata
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **[Duckstradamus](https://github.com/jacques-pel/Duckstradamus):** hourly forecasting of New Zealand wholesale electricity prices (team project; I built the preprocessing and feature selection pipelines)
+- **[Grounds Signal](https://github.com/jacques-pel/grounds-signal)** (in progress): coffee shop openings as a leading indicator of Tokyo neighborhood prices
+- **Project Liminal:** market analysis for a residential development in Mexico City (repository coming soon)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/santiagojacquespelletier/)
